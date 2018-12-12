@@ -1,0 +1,8 @@
+def support_lib_version = '27.1.1'
+ext {
+    android = [
+    ]
+    deps = [
+            cardview           : "com.android.support:cardview-v7:$support_lib_version",
+    ]
+}
