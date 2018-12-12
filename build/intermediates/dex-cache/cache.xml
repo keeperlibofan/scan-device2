@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/seadream/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="28.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/seadream/Desktop/Reporsitories/Scan-Device/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seadream/Desktop/Reporsitories/Scan-Device/app/libs/jxl.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="28.0.2"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="/Users/seadream/Desktop/Reporsitories/Scan-Device/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+
+</items>
